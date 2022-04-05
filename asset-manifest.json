@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/MyTravelJournal/static/js/main.e4b209cb.js",
+    "static/js/787.d63bd0f0.chunk.js": "/MyTravelJournal/static/js/787.d63bd0f0.chunk.js",
+    "index.html": "/MyTravelJournal/index.html",
+    "main.e4b209cb.js.map": "/MyTravelJournal/static/js/main.e4b209cb.js.map",
+    "787.d63bd0f0.chunk.js.map": "/MyTravelJournal/static/js/787.d63bd0f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e4b209cb.js"
+  ]
+}
